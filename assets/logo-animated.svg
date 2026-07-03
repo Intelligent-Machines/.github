@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Intelligent Machines logo">
+  <title>Intelligent Machines</title>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .bot-parts { display: none; }
+      .logo-img { opacity: 1 !important; }
+    }
+  </style>
+  <defs>
+    <clipPath id="frameClip"><rect x="0" y="0" width="120" height="120" rx="26"/></clipPath>
+    <radialGradient id="flashGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="45%" stop-color="#1264ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1264ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect x="0" y="0" width="120" height="120" fill="#f1f2f4"/>
+
+    <g class="bot-parts">
+      <g>
+        <rect x="59" y="26" width="2" height="15" rx="1" fill="#10131a"/>
+        <circle cx="60" cy="20" r="3" fill="#1264ff"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="0 60 41;-10 60 41;8 60 41;0 60 41;0 60 41"
+          keyTimes="0;0.06;0.11;0.18;1"
+          dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.22;0.30;1"
+          dur="7s" repeatCount="indefinite"/>
+      </g>
+
+      <polygon fill="#10131a"
+        points="54.5,49 58.04,50.46 59.5,54 58.04,57.54 54.5,59 50.96,57.54 49.5,54 50.96,50.46">
+        <animate attributeName="points" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.13;0.15;0.22;0.30;0.34;1"
+          values="
+            54.5,49 58.04,50.46 59.5,54 58.04,57.54 54.5,59 50.96,57.54 49.5,54 50.96,50.46;
+            54.5,53.4 58.04,53.58 59.5,54 58.04,54.42 54.5,54.6 50.96,54.42 49.5,54 50.96,53.58;
+            54.5,49 58.04,50.46 59.5,54 58.04,57.54 54.5,59 50.96,57.54 49.5,54 50.96,50.46;
+            54.5,49 58.04,50.46 59.5,54 58.04,57.54 54.5,59 50.96,57.54 49.5,54 50.96,50.46;
+            52.6,42 63,77 63,77 63,77 54.5,77 46,77 46,77 46,77;
+            52.6,42 63,77 63,77 63,77 54.5,77 46,77 46,77 46,77;
+            52.6,42 63,77 63,77 63,77 54.5,77 46,77 46,77 46,77"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.30;0.34;1"
+          dur="7s" repeatCount="indefinite"/>
+      </polygon>
+
+      <polygon fill="#10131a"
+        points="72.5,49 76.04,50.46 77.5,54 76.04,57.54 72.5,59 68.96,57.54 67.5,54 68.96,50.46">
+        <animate attributeName="points" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.13;0.15;0.22;0.30;0.34;1"
+          values="
+            72.5,49 76.04,50.46 77.5,54 76.04,57.54 72.5,59 68.96,57.54 67.5,54 68.96,50.46;
+            72.5,53.4 76.04,53.58 77.5,54 76.04,54.42 72.5,54.6 68.96,54.42 67.5,54 68.96,53.58;
+            72.5,49 76.04,50.46 77.5,54 76.04,57.54 72.5,59 68.96,57.54 67.5,54 68.96,50.46;
+            72.5,49 76.04,50.46 77.5,54 76.04,57.54 72.5,59 68.96,57.54 67.5,54 68.96,50.46;
+            75,42 82,77 82,77 82,77 72.5,77 63,77 63,77 63,77;
+            75,42 82,77 82,77 82,77 72.5,77 63,77 63,77 63,77;
+            75,42 82,77 82,77 82,77 72.5,77 63,77 63,77 63,77"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.30;0.34;1"
+          dur="7s" repeatCount="indefinite"/>
+      </polygon>
+
+      <rect fill="#10131a" x="34.5" y="46.5" width="14" height="26" rx="7">
+        <animate attributeName="x" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.22;0.30;0.34;1" values="34.5;34.5;39.5;39;39"/>
+        <animate attributeName="y" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.22;0.30;0.34;1" values="46.5;46.5;40.5;42;42"/>
+        <animate attributeName="width" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.22;0.30;0.34;1" values="14;14;4;5;5"/>
+        <animate attributeName="height" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.22;0.30;0.34;1" values="26;26;38;35;35"/>
+        <animate attributeName="rx" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.22;0.30;0.34;1" values="7;7;2;2;2"/>
+        <animate attributeName="opacity" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.30;0.34;1" values="1;1;0;0"/>
+      </rect>
+
+      <circle cx="60" cy="59.5" r="2" fill="url(#flashGrad)">
+        <animate attributeName="r" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.29;0.33;0.37;1" values="2;2;22;2;2"/>
+        <animate attributeName="opacity" dur="7s" repeatCount="indefinite"
+          keyTimes="0;0.29;0.33;0.37;1" values="0;0;0.9;0;0"/>
+      </circle>
+    </g>
+
+    <image class="logo-img" x="23" y="23" width="74" height="74"
+      href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAilBMVEXy8vIHBwkAAAD39/ednZ2ysrL4+PjJycn7+/sGBgnR0dH9/f1lZWbu7u4AAAPx8fHo6OhLS0u4uLjc3NxYWFjZ2dmKioqjo6PBwcGRkZEkJCQuLi5ubm90dHSEhIQ1NTVEREUcHBw/P0ExMTN9fX9WVlYUFBSqqqufn59hYWKWlpazs7UgICIQEBAdZT2IAAAI/0lEQVR4nO1caVfjOgwlMhMSQtpA2aaFKTtTZub//72XpJslr1kqet7R/Qa1Y10v2qzk5EQgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgGAXTEzXCU9IRnnEwZNfZ4GeUD+l0BFEOhBncDF3F9G5xzIt4D7+GLmI6f65GkeUgSL9gqHjqCuB8jNN8GBTXAHfD9lh6CXB1vAzVHOB1kJpQZ5DALf9BVEWRaXBO8QwmCdyrARzTVc1wNVwhd4S6Wl1oWN07KKp7SBJ4HyCfumnm6KXs/4Se454Cwg8Hw1rRJDXFAQYjfaufMIGK+yCmp43kOzgZFquW4WP/RazqJayfwK5MVSTDctm0q5eg70DpbTsQfB4rw1m7Agn87K0LYc3wF7cyjWTYaPr293lPTZHebR5wfaRruDuu8KPfGqjFhuHzEGl7jRzJ8GHL8LLfMH8g3zyA2zONZDh92TaDsz7bTF3u+rss7qEQybDaLkECFz22aX2Md/1/M6uaOIaahDnMeoxysRsFHpkZxln89Pe+VY8wsXbY8l3312K41J0Gj2P4qLWCzoNkWvccmH3vSIZLnWHnMLECvfvNCGJ3QBzDcr/Lmn3WURtmt/oY3EFwFEN1jht1VPhTQAy/eFVNFMOty7Vt9N5JRl1NNb1XvKomiqGuKZJGWXQLgRZ4iMURMiywjAm8dVjE9AfuPPnH67dFMSzXodNeyE7O5SVm2HUHDEWUxT/XVWnbLF5bbOOu0BgHQ8waqk9DyH/RQqqV0Xlw7rwTYhgSRdO2+xNJUXfYtn2vWVVNFMMnk+FLpJTFg9l3yZpRjGFYPRtS5rFhYmUsYQJ9opP+iGFoKJok2m5nv4zJ6RtE90UEQ1PRJI3BiEoOV4mN4cAbnm6IYJi9WaRM4DZCIxJbtO36xqlMY9bw3SpmzG3i9NXa9Z1zl0ZY/OqvTcx6rwXl3GfYyORwKtPwGlos2rrpMrwSpplZd50xLmIEwx92McNhYnsj16vnmAgzTG0Kv217GTAYmfUAJ8xBcMQaXjvkDN0m1tvb3i9nzSiGGU5J6KQ1fvQuYnHhnJqIIzwawgxnLjlDYeLMOTU5HBNDp6JpWn95THfhOr8Jb0YxyDC99Qi68Bg2i7/uGeZwCFr8Qk9C5MTN9NwmUocND9P/KrkzgmtY4GTnC25+6VyLkmTYlugxI9Q5xiLIECsauP+H/3ZllcjxhSUKUOCDL8wPMVRX+u8TUDjQgAfHdlNkse9I2pwvoxhimP5Ec78ocDicO0StHTa9GXxUJaBufEFwiCFSNPWSZSnOnTkSZwX2uetgMsPnma+sJngOUegEpyldHbAZDHKVM5nMCGfGIDjE8AY5Jk1QgO4SHSkJ4rA17l2KDnDQax8PAYY4AGpPXYrTNvBierIKO2x548LgGyivrzAuAhYfK5pJ608qIAbEoEgybG0KGM/VhM9vC6xhhvTK+uIQs67lN7ZpRYxmqzhR5jTnC4IDDEvsiqzL7iq6B6mF+cLPfGq1Co7C4PRIGOIDBZ8twxTfYxi3ieUc/765uKd2h4dggCHJtGx8NIWt/oQYDMNhW9eGq0esTJkIBhji/baLeElig6RdFPG51wvfHF+9oIPt3ZIAQ3RzBC+bSv3aWcVWX2dI131bkYo9XL6Mop8hUTT7oj1i9fXbROzn1aHg5sCRvc1WVuNniO/G9lcVtIDkaa82jEO6K86vcqS1uIJgr8Und/D6tCOrr4cK1GHTHFDsmT4cwxpSw7Y3fNRr2YWJCjuy+nHDUQkseQh6GU6Joplr6q8ie3FLhGTI9YtUPCu5NShhZniSzrEJ035LyWbcnirqsGlZDvUnLgHCybAkW1GLeKhm3FyY0X2tV8DRU82UUfQxpCL9RlqIGIV10D79cMcdaoZSilwv6vkY0pJEFA4YvlkbdpDY8QkPtsCbnicI9jHMkKKZkCIRmhBtDEYxx8oEJ4wz7HvD9zPE8sJf3JMeuTrMpRmBOX4fk9RWMWUUfRafeDR0V1XE6t8YGbZTHCHRXc+TUfSsIVU0VDMUJDn8WJz503DUJ+fJKPoY3gW0O0n4f5QPZEpokDvDM8BzE+xhmBGBDQtdkDDx8QO51pZzhjMGsdV/w+BjSK4ezL6kOJZ4pOYSFaiACJ5ZvpHhYVh9YHkKQyDlqJdZdzDrGPCuMFNYB4GbIX3J4sJMHdEiddR+ZYqPDQxTRtHDkPgnthoYYvWR+BZbQBMZLGU1bobUPtuyDiQ5rDe33g4T7XvBoWo8Fv8SbylrYe8MHBTtheBTbC6evneX4loKmFgDVkuR+7r5wio8CThZMopuhrhmy1UT6qjscpQB07iZQ5k6GVJF43gRiOQOt60dRU+kOIclCHYypAkXxwvK9gpLV6qQThtHEOxeQxLDuwKBzGIwnAVvho39TobEh3S+I2Gr5He/20YCMo53S5wMiaJZOn3I0qhf81zwlq/YBDEoUxdDmvpbuQvYjNI+z+Yj73lxBMEui0+1nud9M1pHCh65ybsbEfX+g+FaQ5qQ8Oh1Ekd6vyZFExkMX6txMczIXb0nQU2Sw957M5oZcdc2jgYXQ+Ije/2rFGcJfd9GVDfIkZ3At60hjXPMsiD9GaixP8FUkSzr4ZWpgyFVNP44p9CuYwIv0KbEkTh8EOxgSK+qT727Sc/KBQplaHrr8F+rcZ1DbMZDl+7l7nRB4G17mil3VeCOBwfDG1InG3ivde+mh/Q/LeM4/Ndq7BafypEHTova5nonoSISo5BhNCbOEa0MqaIJ5m63oW24mKtEOcra0I7Dww07Q5rNDn4HY2PJI74IkS46nfDhsDMsSUXQZ1AfrJPDEZ//pJN38LKa5hzmO2wZkhRaRAiwvhKOMG9GdaqZSh8X1u+XNp80RogIVFV9vmAZ1oz1VCDYk3JjojpHaK2Zmp1hREjRGLqoQ1WRZx/+ekYhWP8ZNc211V/0GJDtvYvhSN94v5XAjzowOuIPro+DI/7e+kj43xMUCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCA4SvwHAXdrEqgNKsAAAAAASUVORK5CYII=">
+      <animate attributeName="opacity" dur="7s" repeatCount="indefinite"
+        keyTimes="0;0.30;0.34;1" values="0;0;1;1"/>
+    </image>
+  </g>
+</svg>
