@@ -16,12 +16,11 @@
 
 From AI-powered enterprise solutions to custom-built integrations, we transform
 complexity into clarity and empower businesses with cutting-edge technology.
-Founded in 2018 and based in Dhaka, Bangladesh, we build production-grade AI
-systems for the distribution and retail sector.
+Since 2018 we've helped Bangladesh's largest distribution businesses run smarter with production-grade AI.
 
 <div align="center">
 
-| 59+ | 16 | 6 |
+| 59 | 16 | 6 |
 |:---:|:---:|:---:|
 | production systems | enterprise clients | countries |
 
@@ -49,7 +48,7 @@ systems for the distribution and retail sector.
 
 ## We're hiring
 
-We're growing our engineering team — frontend, backend, QA, and AI engineers.
+Join a team solving the hardest enterprise AI challenges on the planet. We move fast, ship real products, and our work changes how the world's largest companies operate.
 [See open roles →](https://intelmachines.ai/career)
 
 ## Get in touch
