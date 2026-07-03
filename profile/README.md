@@ -55,6 +55,6 @@ Join a team solving the hardest enterprise AI challenges on the planet. We move 
 
 - **Website:** [intelmachines.ai](https://intelmachines.ai)
 - **Email:** [now@intelmachin.es](mailto:now@intelmachin.es)
-- **Phone:** +880 1819-218449
+- **Phone:** +8801819218449
 - **LinkedIn:** [Intelligent Machines](https://www.linkedin.com/company/intelligent-machines-ltd)
 - **Address:** Momen Shah,House #68, Road #17, Block E, Level 10, Banani, Dhaka
