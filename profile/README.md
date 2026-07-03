@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-intelmachines.ai-1264FF?style=flat-square&logo=googlechrome&logoColor=white)](https://intelmachines.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Intelligent%20Machines-1264FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/intelligent-machines-ltd)
-[![Email](https://img.shields.io/badge/Email-hello%40intelmachin.es-1264FF?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@intelmachin.es)
+[![Email](https://img.shields.io/badge/Email-now%40intelmachin.es-1264FF?style=flat-square&logo=gmail&logoColor=white)](mailto:now@intelmachin.es)
 
 </div>
 
@@ -54,7 +54,7 @@ Join a team solving the hardest enterprise AI challenges on the planet. We move 
 ## Get in touch
 
 - **Website:** [intelmachines.ai](https://intelmachines.ai)
-- **Email:** [hello@intelmachin.es](mailto:hello@intelmachin.es)
+- **Email:** [now@intelmachin.es](mailto:now@intelmachin.es)
 - **Phone:** +880 1819-218449
 - **LinkedIn:** [Intelligent Machines](https://www.linkedin.com/company/intelligent-machines-ltd)
-- **Address:** Moar Banani 11, Ventura Iconia, Level 3, Holding 37 Road No. 11, Block H, Dhaka 1213
+- **Address:** Momen Shah,House #68, Road #17, Block E, Level 10, Banani, Dhaka
